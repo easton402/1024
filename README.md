@@ -69,7 +69,11 @@
 
 6.19 今天DSM供应商寄来了样品，研发团队正在验收、测试。附图，实验室一窥。
 
+* 合作厂商寄来的原料
+
 ![1024](https://github.com/stormzhang/1024/blob/master/art/ingredient.jpg?raw=true)
+
+* 实验一角
 
 ![1024](https://github.com/stormzhang/1024/blob/master/art/corner.jpg?raw=true)
 
