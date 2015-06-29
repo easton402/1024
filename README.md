@@ -73,7 +73,7 @@
 ![Cover1](https://github.com/stormzhang/1024/blob/master/art/1024_cover1.jpg?raw=true)
 
 * B（图2）
-![Cover2](https://github.com/stormzhang/1024/blob/master/art/1024_cover1.jpg?raw=true)
+![Cover2](https://github.com/stormzhang/1024/blob/master/art/1024_cover2.jpg?raw=true)
 
 6.19 今天DSM供应商寄来了样品，研发团队正在验收、测试。
 
